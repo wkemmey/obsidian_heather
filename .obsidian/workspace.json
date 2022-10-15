@@ -14,8 +14,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "48c26ecb68c33eb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study Themes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Study Themes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Study Themes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Study Themes.md"
+              }
             }
           }
         ]
@@ -131,8 +148,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "59dd96183361166f",
+  "active": "48c26ecb68c33eb2",
   "lastOpenFiles": [
+    "better school performance.md",
     "evaluation questions.md",
     "improved running skills.md",
     "Studies of Youth Running Clubs.md",
